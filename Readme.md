@@ -9,6 +9,8 @@ At one point I had an issue with my API key.  I was getting an error message say
 
 Another obstacle was getting the data to load into the different folders.  I was able to resolve that by moving the folder into the current folder I was creating the code for.  Example.  I was not able to load the code into the Vacation Search until I moved the Weather Database folder into the Vacation Search folder.  Same process when creating the travel itinery.  The itinery code does not include the heat maps.
 
+Weather Database folder is in the Vacation Itinery folder.
+
 ## Hotel Map with Heat Markers
 ![HotelMaxTempwithHotelMarkerBoxes](https://user-images.githubusercontent.com/92495807/164988858-c8e285ae-2235-4b1c-8a68-ffdf66f53821.png)
 ## Driving Directions Map
